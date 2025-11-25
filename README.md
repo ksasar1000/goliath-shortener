@@ -44,3 +44,5 @@ end)
 Press `Mod4+a` to access token accounts. Missing device shows notification. Supports both USB and NFC security tokens.
 
 Customize script location and keybinds as needed.
+
+# PR Merge: 2025-11-26 02:05:01
